@@ -27,6 +27,7 @@ public class Artist {
         return likes;
     }
 
+
     public void setLikes(int likes) {
         this.likes = likes;
     }
